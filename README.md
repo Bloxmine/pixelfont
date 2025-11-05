@@ -3,8 +3,10 @@
 5x5 Pixel font for Flipdot displays
 ![example](images/big.png)
 
-and a 3x3 Pixel font for very small displays
+and a 3x3 Pixel font with less legibility but more characters per line
 ![example](images/small.png)
+
+You can use these fonts in your own projects, for example for flipdot displays, LED matrices, or other pixel-based displays.
 
 ## Usage
 These fonts are made in JavaScript and every character is represented as an array of 0s and 1s.

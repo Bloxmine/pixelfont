@@ -290,18 +290,6 @@ canvas {
     background-repeat: no-repeat;
     background-position: center;
 }
-.mmm-label.cyborg {
-    background-image: url('/mmm/cyborg-color.png');
-}
 .mmm-label.handyman {
-    background-image: url('/mmm/handyman-color.png');
-}
-.mmm-label.lazyprompter {
-    background-image: url('/mmm/lazyprompter-color.png');
-}
-.mmm-label.piggybacker {
-    background-image: url('/mmm/piggybacker-color.png');
-}
-.mmm-label.manmade {
-    background-image: url('/mmm/manmade-color.png');
+    background-image: url('../images/handyman.svg');
 }
