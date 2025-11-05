@@ -1,4 +1,4 @@
-# pixelfont
+# Pixel font
 
 5x5 Pixel font for Flipdot displays
 ![example](images/big.png)
@@ -29,6 +29,7 @@ To place special characters which save space, you can use these single-character
 
 ## Testing and Demo
 You can test and demo the fonts in your browser by opening `index.html`. This allows you to test out characters in the two different fonts and with a few animations.
+Clone the repo and open a live server to test it out.
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
